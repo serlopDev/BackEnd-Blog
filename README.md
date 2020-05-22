@@ -8,7 +8,9 @@
 
     npm start
 
-# Para consumirla en el Front End, es necesario clonar e iniciar el proyecto de Front End que he realizado en ANGULAR_
+# Para consumirla en el Front End, es necesario clonar e iniciar el proyecto de Front End que he realizado en:
+
+# ANGULAR:
 
     https://github.com/serlopDev/Angular-Blog.git
 
