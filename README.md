@@ -8,16 +8,16 @@
 
     npm start
 
-# Para consumirla en el Front End, es necesario clonar e iniciar el proyecto de Front End que he realizado en:
+# Para consumirla en el Front End, es necesario clonar uno de los proyectos, e iniciar el proyecto de Front End. Front End en ANGULAR/REACTJS/VUE:
 
 # ANGULAR:
 
     https://github.com/serlopDev/Angular-Blog.git
 
-# En REACTJS: 
+# REACTJS: 
 
     https://github.com/serlopDev/React-Blog.git
 
-# o en VUE:
+# VUE:
 
     https://github.com/serlopDev/Vue-Blog.git
